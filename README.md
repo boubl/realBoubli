@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a custom 2D engine using Monogame
-- 🌱 I’m currently learning how to code a map editor, and how to use ImGui
+- 🔭 I’m currently working on a Muse Dash Map editor
+- 🌱 I’m currently learning how to write good C++ code
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: fact fun
 
 Socials:
-Discord: Boubli#3314
-Twitter: @realboubli
+
+ - Discord: Boubli#3314
+ - Twitter: @realboubli
