@@ -8,4 +8,3 @@
 Socials:
 
  - Discord: Boubli#3314
- - Twitter: @realboubli
